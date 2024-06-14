@@ -13,3 +13,4 @@
 最後是區間切分的段數 n
 ### 輸出計算結果
 印出積分值 保留2位小數
+![image](https://github.com/comedimmy/python-final-report/assets/113405460/2aedc73e-ff37-4c9f-af10-191bb3b07a75)
